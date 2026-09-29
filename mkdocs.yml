@@ -1,0 +1,12 @@
+site_name: BuFaTa Biologie Wiki
+
+theme:
+  name: material
+
+repo_url: https://github.com/DEINNAME/bufata-wiki
+edit_uri: edit/main/docs/
+
+nav:
+  - Start: index.md
+  - BuFaTa:
+      - Was ist die BuFaTa?: bufata/was-ist-die-bufata.md
