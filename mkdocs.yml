@@ -2,6 +2,9 @@ site_name: BuFaTa Biologie Wiki
 
 theme:
   name: material
+  features:
+    - content.action.edit
+    - content.action.view
 
 repo_url: https://github.com/bionetz/bufata-wiki
 edit_uri: edit/main/docs/
