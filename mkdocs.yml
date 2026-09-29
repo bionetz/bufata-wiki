@@ -3,7 +3,7 @@ site_name: BuFaTa Biologie Wiki
 theme:
   name: material
 
-repo_url: https://github.com/DEINNAME/bufata-wiki
+repo_url: https://github.com/bionetz/bufata-wiki
 edit_uri: edit/main/docs/
 
 nav:
